@@ -10,3 +10,4 @@ Nel Capitolo 1 viene presentato un documento di prova che contiene testo, elench
 .. toctree::
 
    _docs/cap1.rst
+   docs/cap1.rst
