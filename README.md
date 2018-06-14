@@ -7,4 +7,4 @@ In particolare, qui viene trattata la formazione in AGID.
 Link
 ----
 
-Link alla [documentazione compilata su Docs Italia](http://starter-kit-docs-italia.readthedocs.io/).
+Link alla [documentazione compilata su Docs Italia](http://docsitalia-formazione.readthedocs.io/).
